@@ -24,7 +24,7 @@ namespace TechChallenge
             int smallBoxCount = numOfItems % 5;
             int totalBoxCount = bigBoxCount + smallBoxCount;
 
-            Console.WriteLine($"{numOfItems} products = {totalBoxCount} boxes ({bigBoxCount} large boxes + {smallBoxCount} small boxes)");
+            Console.WriteLine(numOfItems + " products = "+totalBoxCount+" boxes ("+bigBoxCount+" large boxes + "+smallBoxCount+" small boxes)");
 
             Console.WriteLine("Type any key to exit");
             Console.ReadKey();

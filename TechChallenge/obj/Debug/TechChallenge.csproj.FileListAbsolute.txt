@@ -1,6 +1,0 @@
-c:\users\nsweeney.projnet\documents\visual studio 2015\Projects\TechChallenge\TechChallenge\bin\Debug\TechChallenge.exe.config
-c:\users\nsweeney.projnet\documents\visual studio 2015\Projects\TechChallenge\TechChallenge\bin\Debug\TechChallenge.exe
-c:\users\nsweeney.projnet\documents\visual studio 2015\Projects\TechChallenge\TechChallenge\bin\Debug\TechChallenge.pdb
-c:\users\nsweeney.projnet\documents\visual studio 2015\Projects\TechChallenge\TechChallenge\obj\Debug\TechChallenge.csprojResolveAssemblyReference.cache
-c:\users\nsweeney.projnet\documents\visual studio 2015\Projects\TechChallenge\TechChallenge\obj\Debug\TechChallenge.exe
-c:\users\nsweeney.projnet\documents\visual studio 2015\Projects\TechChallenge\TechChallenge\obj\Debug\TechChallenge.pdb
